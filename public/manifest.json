@@ -1,0 +1,36 @@
+{
+    "short_name": "PollIn",
+    "name": "Who want To poll In",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose":"any maskable"
+      },
+      {
+        "src": "/icon.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose":"any maskable"
+      },
+      {
+        "src": "/icon.png",
+        "type": "image/png",
+        "sizes": "32x32",
+        "purpose":"any maskable"
+      },
+      {
+        "src": "/icon.png",
+        "type": "image/png",
+        "sizes": "16X16",
+        "purpose":"any maskable"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "black",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#1f2937",
+    "description": "Poll Web for Free"
+  }
