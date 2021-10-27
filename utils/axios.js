@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export default axios.create({
-    baseURL: 'https://api-pollin.herokuapp.com/',
+    baseURL: 'https://happy-poitras-49f3a7.netlify.app/',
     headers: {
       'Content-Type': 'application/json',
     },
